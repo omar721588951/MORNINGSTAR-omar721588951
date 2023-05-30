@@ -573,19 +573,20 @@ fn.name@1.x.x:
   resolved "https://registry.yarnpkg.com/fn.name/-/fn.name-1.1.0.tgz#26cad8017967aea8731bc42961d04a3d5988accc"
   integrity sha512-GRnmB5gPyJpAhTQdSZTSp9uaPSvl09KoYcMQtsB9rQoOmzs9dH6ffeccH+Z+cv6P68Hu5bC6JjRh4Ah/mHSNRw==
 
-focus-trap-react@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/focus-trap-react/-/focus-trap-react-8.1.0.tgz#9f7625779633c9d3b05d73501eaf9a295876a753"
-  integrity sha512-mk7aqFrx03py5c2yGNPii6j0TgkRtRtCBn7ybYAbQUE9zcL12KgKfR7wIAQC7OLj6qkv7M6sAooRqBZ3JnX8yA==
+focus-trap-react@^10.1.1:
+  version "10.1.4"
+  resolved "https://registry.yarnpkg.com/focus-trap-react/-/focus-trap-react-10.1.4.tgz#bab7ea87aecfa2f7eb6f2fcc4be1e7311893ca17"
+  integrity sha512-vLUQRXI6SUJD8YLYTBa1DlCYRmTKFDxRvc4TEe2nq8S1aj+YKsucuNxqZUOf0+RZ01Yoiwtk/6rD9xqSvawIvQ==
   dependencies:
-    focus-trap "^6.1.0"
+    focus-trap "^7.4.3"
+    tabbable "^6.1.2"
 
-focus-trap@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/focus-trap/-/focus-trap-6.1.0.tgz#836a4851b389b71fe26d4dcdfb43d5c8d6f2bfc6"
-  integrity sha512-TQf1gJ5UgAY2ZMXrTDls6ah10kJmh35w/4COQHncLILwAK7hme4tiOwYnq2JOU88pqu1LoPqO9Yn7EbvmnzRRQ==
+focus-trap@^7.4.3:
+  version "7.4.3"
+  resolved "https://registry.yarnpkg.com/focus-trap/-/focus-trap-7.4.3.tgz#a3dae73d44df359eb92bbf37b18e173e813b16c5"
+  integrity sha512-BgSSbK4GPnS2VbtZ50VtOv1Sti6DIkj3+LkVjiWMNjLeAp1SH1UlLx3ULu/DCu4vq5R4/uvTm+zrvsMsuYmGLg==
   dependencies:
-    tabbable "^5.1.0"
+    tabbable "^6.1.2"
 
 fs-admin@^0.19.0:
   version "0.19.0"
@@ -1663,10 +1664,10 @@ supports-color@^4.0.0:
   dependencies:
     has-flag "^2.0.0"
 
-tabbable@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/tabbable/-/tabbable-5.1.0.tgz#b81115168d0a8359ba69003b6a99d05f8480a664"
-  integrity sha512-Y3nSukchqM5UchuZjhj/WyE79Qb4RM/Vx3x3oHO3UYKKpf70Hy3iVRxb61MzCavN74aZsKzvPl4KNG8tQUAjFQ==
+tabbable@^6.1.2:
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/tabbable/-/tabbable-6.1.2.tgz#b0d3ca81d582d48a80f71b267d1434b1469a3703"
+  integrity sha512-qCN98uP7i9z0fIS4amQ5zbGBOq+OSigYeGvPy7NDk8Y9yncqDZ9pRPgfsc2PJIVM9RrJj7GIfuRgmjoUU9zTHQ==
 
 tar-fs@^2.0.0:
   version "2.0.0"
